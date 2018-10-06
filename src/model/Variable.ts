@@ -8,7 +8,7 @@ export class Variable {
      * Returns the name of the variable
      */
     public GetName() {
-        return this.type;
+        return this.name;
     }
 
     /**
